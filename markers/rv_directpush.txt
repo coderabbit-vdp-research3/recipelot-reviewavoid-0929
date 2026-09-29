@@ -1,0 +1,2 @@
+RECIPELOT_RV_DIRECTPUSH_BENIGN_MARKER
+authorized CodeRabbit VDP research (RECIPELOT lane, direct-push-to-default-branch cell) — benign fixture, no secrets, no exploit code.
