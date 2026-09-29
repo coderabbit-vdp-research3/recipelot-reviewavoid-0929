@@ -1,0 +1,2 @@
+RECIPELOT_RV_TITLE_BENIGN_MARKER
+authorized CodeRabbit VDP research (RECIPELOT lane, title-keyword cell) — benign fixture, no secrets, no exploit code.
