@@ -1,0 +1,2 @@
+RECIPELOT_RV_DRAFT_BENIGN_MARKER
+authorized CodeRabbit VDP research (RECIPELOT lane, draft cell) — benign fixture, no secrets, no exploit code.
